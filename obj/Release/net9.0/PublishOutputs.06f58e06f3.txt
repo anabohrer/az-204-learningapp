@@ -1,0 +1,7 @@
+C:\Users\Ana Luiza Bohrer\Repos\az-204\learningapp\bin\Publish\learningapp.exe
+C:\Users\Ana Luiza Bohrer\Repos\az-204\learningapp\bin\Publish\appsettings.Development.json
+C:\Users\Ana Luiza Bohrer\Repos\az-204\learningapp\bin\Publish\appsettings.json
+C:\Users\Ana Luiza Bohrer\Repos\az-204\learningapp\bin\Publish\learningapp.dll
+C:\Users\Ana Luiza Bohrer\Repos\az-204\learningapp\bin\Publish\learningapp.deps.json
+C:\Users\Ana Luiza Bohrer\Repos\az-204\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\Users\Ana Luiza Bohrer\Repos\az-204\learningapp\bin\Publish\learningapp.pdb
